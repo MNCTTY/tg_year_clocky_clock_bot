@@ -1,0 +1,6 @@
+telebot
+datetime
+time
+
+# for .env file support
+python-dotenv

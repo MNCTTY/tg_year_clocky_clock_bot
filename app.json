@@ -1,0 +1,20 @@
+{
+    "name": "Year clocky-clock bot",
+    "description": "Deploy a tg bot, which show you the only chasiki which should tikat!",
+    "keywords": [
+      "telegram-bot",
+      "python",
+      "proxy"
+    ],
+    "website": "https://github.com/MNCTTY/tg_year_clocky_clock_bot",
+    "repository": "https://github.com/MNCTTY/tg_year_clocky_clock_bot",
+    "success_url": "https://github.com/MNCTTY/tg_year_clocky_clock_bot",
+    "env": {
+      "HEROKU_APP_NAME": {
+        "description": "The name of your Heroku app."
+      },
+      "TELEGRAM_TOKEN": {
+        "description": "Your bot's token."
+      }
+    }
+}
